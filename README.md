@@ -24,11 +24,11 @@ The array is stored in memory starting at address A (A ≥ 4) and has N elements
 
 The processor implements 15 instructions, including custom instructions:
 
-- ** Standard R-type instructions**: ADD, SUB, SLL, SRL, AND, OR
-- ** Custom R-type instructions**: XOR, SLT (Set on Less Than)
-- ** Standard I-type instructions**: LW, SW, BEQ, ADDI
-- ** Custom I-type instructions**: ANDI, BNE (Branch on Not Equal)
-- ** J-type instructions**: J (Jump)
+- Standard R-type instructions: ADD, SUB, SLL, SRL, AND, OR
+- Custom R-type instructions: XOR, SLT (Set on Less Than)
+- Standard I-type instructions: LW, SW, BEQ, ADDI
+- Custom I-type instructions: ANDI, BNE (Branch on Not Equal)
+- J-type instructions: J (Jump)
 
 ### 🧩 Processor Components
 
