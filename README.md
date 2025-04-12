@@ -1,12 +1,12 @@
-# 🚀 MIPS Single Cycle Processor Project
+# 🚀 MIPS Pipeline Processor Project
 
 ## 📝 Overview
 
-This repository contains the VHDL implementation of a 32-bit MIPS single-cycle processor developed as a laboratory project for the Computer Architecture course at the Technical University of Cluj-Napoca. The processor is capable of executing a unique program that processes arrays based on specific conditions.
+This repository contains the VHDL implementation of a 32-bit MIPS pipeline processor developed as a laboratory project for the Computer Architecture course at the Technical University of Cluj-Napoca. The processor is capable of executing a unique program that processes arrays based on specific conditions.
 
 ## ✨ Project Description
 
-The main objective was to design and implement a MIPS processor that executes a custom program across 4 dedicated lab sessions. The processor is implemented with 32-bit architecture similar to the one studied in the course.
+The main objective was to design and implement a MIPS processor that executes a custom program.
 
 ## 🛠️ Program Functionality
 
